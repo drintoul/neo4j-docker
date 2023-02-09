@@ -1,5 +1,5 @@
 # neo4j-docker
-Neo4j running in Docker container
+Neo4j:5.4.0-community running in Docker container
 
 Note that there is no security implemented on this instance
 
